@@ -1,0 +1,1 @@
+# HackerRank-Python-Python-Functionals-Reduce-Function-Solution.py-
