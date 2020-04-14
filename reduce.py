@@ -1,4 +1,3 @@
-# HackerRank-Python-Python-Functionals-Reduce-Function-Solution.py-
 from fractions import Fraction
 from functools import reduce
 
